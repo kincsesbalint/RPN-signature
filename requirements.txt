@@ -2,7 +2,7 @@ numpy
 matplotlib
 seaborn
 pandas
-networkx
+networkx==2.0
 mlxtend
 scikit-learn
 tqdm
