@@ -4,6 +4,6 @@ seaborn
 pandas
 networkx
 mlxtend
-scikitlearn
+scikit-learn
 tqdm
 statsmodels
