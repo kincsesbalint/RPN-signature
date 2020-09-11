@@ -1,0 +1,1 @@
+# This script should preprocess high GM-WM contrast structural images.
